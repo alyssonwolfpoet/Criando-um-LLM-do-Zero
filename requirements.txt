@@ -1,0 +1,4 @@
+pandas
+pylance
+tiktoken
+transformers[torch]
